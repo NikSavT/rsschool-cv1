@@ -23,3 +23,7 @@ https://NikSavT.github.io/rsschool-cv/cv
 ### Education <br>
 Academy of the Ministry of Internal Affairs of the Republic of Belarus;<br/>
 Belarusian State University of Physical Culture and Sports.
+***
+### Languages: <br/>
+Russian (native);<br/>
+English (A2).
