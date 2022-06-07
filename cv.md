@@ -18,3 +18,8 @@ Nothing else((( But I will try very hard to acquire all the necessary skills
     return $a * $b;
     }
 ***
+### Project
+https://NikSavT.github.io/rsschool-cv/cv
+### Education <br>
+Academy of the Ministry of Internal Affairs of the Republic of Belarus;<br/>
+Belarusian State University of Physical Culture and Sports.
